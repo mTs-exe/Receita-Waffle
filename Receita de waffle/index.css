@@ -43,7 +43,9 @@ div{
     height: 20px;
   }
   
-  
+  img{
+    border-radius: 20px 20px;
+  }
 
   figcaption {
     font-size: 15px;
