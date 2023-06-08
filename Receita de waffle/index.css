@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+
+div{
+    
+    border-radius: 20px 20px;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    background: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    object-fit:cover;
+    list-style-position: inside;
+  
+  }
+
+  body{
+    background: #aa5607;
+    text-align: center;
+    padding: 40px;
+    height: 20px;
+  }
+
+  footer{
+    padding: 30px;
+  }
+
+  ol{
+    text-align: justify;
+    line-height: 3;
+  }
+
+  ul{
+    text-align: justify;
+    line-height: 2.5;
+  }
+
+  h2 h3{
+    padding: 25px;
+    height: 20px;
+  }
+  
+  
+
+  figcaption {
+    font-size: 15px;
+    color: #ccc;
+    text-align:end;
+  }
